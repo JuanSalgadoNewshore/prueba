@@ -1,0 +1,3 @@
+[submodule "SubmoduloRepo"]
+	path = SubmoduloRepo
+	url = https://github.com/JuanSalgadoNewshore/SubmoduloRepo.git
